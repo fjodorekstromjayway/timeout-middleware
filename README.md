@@ -1,3 +1,6 @@
+# NOT MAINTAINED
+
+
 #timeout-middleware#
 Express middleware that intercepts the `res.status`, `res.sendStatus` and `res.send` functions and checks for whether the response has timed out or not.
 
